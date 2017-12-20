@@ -7,7 +7,7 @@
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
     "client_secret": "S28yHJ3xIpTwWaYwC3xpwSaV",
     "redirect_uris": [
-      "http://sbt-room-display.herokuapp.com:3000/oauth/callback"
+      "http://localhost:3000/oauth/callback"
     ],
     "javascript_origins": [
       "http://localhost:3000"
